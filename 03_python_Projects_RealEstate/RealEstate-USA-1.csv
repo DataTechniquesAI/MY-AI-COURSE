@@ -1,0 +1,197 @@
+brokered_by,status,Price,bed,bath,acre_lot,street,city,state,zip_code,house_size
+103378,for_sale,105000,3.0,2.0,0.12,1962661,Adjuntas,Puerto Rico,601,920.0
+34632,for_sale,65000,6.0,2.0,0.05,331151,Mayaguez,Puerto Rico,680,0.0
+1205,for_sale,50000,3.0,1.0,0.2,1298094,Ciales,Puerto Rico,639,2040.0
+50739,for_sale,71600,3.0,2.0,0.08,1048466,Ponce,Puerto Rico,731,1050.0
+81909,for_sale,100000,2.0,1.0,0.09,734904,Ponce,Puerto Rico,730,1092.0
+65672,for_sale,300000,5.0,3.0,7.46,1946226,Las Marias,Puerto Rico,670,5403.0
+52707,for_sale,89000,3.0,2.0,13.39,1902814,Isabela,Puerto Rico,662,1106.0
+52707,for_sale,150000,3.0,2.0,0.08,1773902,Juana Diaz,Puerto Rico,795,1045.0
+46019,for_sale,155000,3.0,2.0,0.1,1946165,Lares,Puerto Rico,669,4161.0
+52707,for_sale,79000,5.0,2.0,0.12,1761024,Utuado,Puerto Rico,641,1620.0
+88441,for_sale,649000,5.0,5.0,0.74,1879215,Ponce,Puerto Rico,731,2677.0
+50739,for_sale,120000,3.0,2.0,0.08,17854,Yauco,Puerto Rico,698,1100.0
+51202,for_sale,235000,4.0,4.0,0.22,13687,Mayaguez,Puerto Rico,680,3450.0
+12876,for_sale,105000,3.0,2.0,0.08,1868721,Ponce,Puerto Rico,728,1500.0
+109906,for_sale,575000,3.0,2.0,3.88,1312671,San Sebastian,Puerto Rico,685,4000.0
+46019,for_sale,140000,6.0,3.0,0.25,6710,Anasco,Puerto Rico,610,1230.0
+52707,for_sale,50000,2.0,1.0,0.23,1902835,Yauco,Puerto Rico,698,621.0
+52707,for_sale,165000,6.0,3.0,0.1,117231,Moca,Puerto Rico,676,3000.0
+81909,for_sale,189000,3.0,1.0,2.0,1307740,Coamo,Puerto Rico,769,1213.0
+52707,for_sale,115000,3.0,2.0,0.0,481889,Ponce,Puerto Rico,716,1148.0
+12434,for_sale,122500,3.0,2.0,0.05,437877,Yauco,Puerto Rico,698,1118.0
+52464,for_sale,255000,3.0,2.0,0.28,1948621,San Sebastian,Puerto Rico,685,1500.0
+81495,for_sale,425000,4.0,3.0,0.3,955013,Ponce,Puerto Rico,730,3000.0
+87549,for_sale,93000,4.0,2.0,0.11,1854860,Guayanilla,Puerto Rico,656,1300.0
+92147,for_sale,75000,4.0,2.0,0.04,511838,Manati,Puerto Rico,676,1080.0
+29915,for_sale,469000,3.0,2.0,0.69,1857020,Isabela,Puerto Rico,662,2505.0
+52707,for_sale,189000,6.0,3.0,1.75,1902849,Villalba,Puerto Rico,766,1943.0
+52707,for_sale,225000,5.0,4.0,0.12,1987398,Ponce,Puerto Rico,717,1600.0
+67133,for_sale,495000,4.0,2.0,3.08,1962660,Santa Isabel,Puerto Rico,757,2886.0
+86036,for_sale,220000,1.0,1.0,0.1,523790,Ponce,Puerto Rico,730,850.0
+52707,for_sale,70500,3.0,1.0,0.23,1856955,Yauco,Puerto Rico,698,936.0
+3606,for_sale,305000,3.0,2.0,1.13,1902855,Moca,Puerto Rico,676,1928.0
+109906,for_sale,475000,4.0,4.0,4.84,1940314,San Sebastian,Puerto Rico,685,3690.0
+1502,for_sale,195000,3.0,4.0,1.94,1856898,Utuado,Puerto Rico,641,2500.0
+109906,for_sale,120000,4.0,2.0,0.24,1667467,Las Marias,Puerto Rico,670,1800.0
+52707,for_sale,650000,9.0,7.0,0.46,1902746,Mayaguez,Puerto Rico,680,3709.0
+86036,for_sale,555000,5.0,3.0,0.16,480944,Ponce,Puerto Rico,730,3100.0
+63639,for_sale,3900000,6.0,6.0,0.94,269007,Penuelas,Puerto Rico,624,9297.0
+52707,for_sale,400000,0.0,0.0,0.99,1857015,Moca,Puerto Rico,676,43082.0
+80224,for_sale,380000,0.0,0.0,18.45,1855421,Hatillo,Puerto Rico,659,0.0
+52707,for_sale,95000,3.0,2.0,0.1,1868667,Aguada,Puerto Rico,602,600.0
+87549,for_sale,74000,3.0,1.0,0.09,1902824,Aguada,Puerto Rico,602,900.0
+108122,for_sale,139500,4.0,2.0,0.15,397960,Aguada,Puerto Rico,602,3000.0
+72457,for_sale,149900,1.0,1.0,0.26,1850822,Aguada,Puerto Rico,602,2100.0
+15143,for_sale,180000,2.0,2.0,0.24,1234696,Aguada,Puerto Rico,602,1138.0
+52707,for_sale,249000,3.0,2.0,0.13,1902736,Aguada,Puerto Rico,602,1380.0
+52707,for_sale,252000,6.0,4.0,0.23,1902727,Aguada,Puerto Rico,602,2500.0
+102017,for_sale,160000,2.0,1.0,0.0,1842923,Aguada,Puerto Rico,602,813.0
+49045,for_sale,90000,2.0,1.0,0.07,1837494,Aguada,Puerto Rico,602,813.0
+46019,for_sale,500000,5.0,3.0,1.78,10282,Aguada,Puerto Rico,602,2962.0
+47983,for_sale,339000,4.0,2.0,0.1,268641,Aguada,Puerto Rico,602,1955.0
+89348,for_sale,265000,3.0,2.0,0.08,1868699,Aguada,Puerto Rico,602,1200.0
+55906,for_sale,10000000,6.0,5.0,0.12,1233063,Aguada,Puerto Rico,602,6000.0
+47983,for_sale,389000,3.0,4.0,2.0,1902739,Aguada,Puerto Rico,602,1880.0
+102017,for_sale,575000,3.0,2.0,2.96,1962620,Aguada,Puerto Rico,602,2500.0
+46019,for_sale,35000,0.0,0.0,0.88,1234597,Aguada,Puerto Rico,602,0.0
+52464,for_sale,58000,0.0,0.0,0.21,1966337,Aguada,Puerto Rico,602,0.0
+46019,for_sale,85000,0.0,0.0,21.08,1188097,Aguada,Puerto Rico,602,0.0
+102017,for_sale,47000,0.0,0.0,0.57,1841588,Aguada,Puerto Rico,602,0.0
+102017,for_sale,720000,3.0,3.0,0.0,1667516,Aguada,Puerto Rico,602,2715.0
+102017,for_sale,375000,7.0,5.0,0.31,166250,Aguada,Puerto Rico,602,2775.0
+46019,for_sale,50000,0.0,0.0,0.65,1946326,Aguada,Puerto Rico,602,0.0
+66561,for_sale,3250000,0.0,6.0,0.06,1856959,Rincon,Puerto Rico,602,0.0
+47983,for_sale,39500,0.0,0.0,0.24,1902841,Aguada,Puerto Rico,602,0.0
+102017,for_sale,249500,0.0,0.0,33.35,1032552,Aguada,Puerto Rico,602,0.0
+46019,for_sale,1399000,5.0,3.0,8.74,6714,Aguada,Puerto Rico,602,5517.0
+60830,for_sale,600000,6.0,5.0,0.1,1946165,Aguada,Puerto Rico,602,2400.0
+102017,for_sale,649000,0.0,0.0,2.64,1946165,Aguada,Puerto Rico,602,0.0
+47983,for_sale,189000,2.0,1.0,0.0,1902894,Aguada,Puerto Rico,602,951.0
+52707,for_sale,150000,0.0,0.0,1.46,1902798,Aguada,Puerto Rico,602,0.0
+107152,for_sale,74000,0.0,0.0,0.21,1966339,Aguada,Puerto Rico,602,0.0
+102017,for_sale,65500,0.0,0.0,0.28,16882,Aguada,Puerto Rico,602,0.0
+102017,for_sale,67500,0.0,0.0,0.28,1760196,Aguada,Puerto Rico,602,0.0
+107152,for_sale,74000,0.0,0.0,0.21,1842584,Aguada,Puerto Rico,602,0.0
+88086,for_sale,130000,0.0,0.0,0.42,1902763,Aguada,Puerto Rico,602,0.0
+46019,for_sale,95000,0.0,0.0,0.37,1188098,Aguada,Puerto Rico,602,0.0
+47983,for_sale,329000,0.0,0.0,0.23,939073,Rincon,Puerto Rico,602,0.0
+46019,for_sale,130000,0.0,0.0,0.68,6711,Aguada,Puerto Rico,602,0.0
+102017,for_sale,94770,0.0,0.0,0.25,166251,Aguada,Puerto Rico,602,0.0
+88086,for_sale,150000,0.0,0.0,0.38,1902760,Aguada,Puerto Rico,602,0.0
+46019,for_sale,165000,0.0,0.0,0.4,167086,Aguada,Puerto Rico,602,0.0
+107152,for_sale,215000,3.0,2.0,0.22,595559,Aguadilla,Puerto Rico,603,2070.0
+52707,for_sale,63000,3.0,2.0,0.05,1856967,Aguadilla,Puerto Rico,603,1184.0
+107152,for_sale,215000,3.0,2.0,0.22,1268649,Aguadilla,Puerto Rico,603,1900.0
+48586,for_sale,115000,3.0,1.0,0.2,1962563,Aguadilla,Puerto Rico,603,980.0
+52707,for_sale,99000,4.0,2.0,0.89,1499349,Aguadilla,Puerto Rico,603,1408.0
+102017,for_sale,850000,5.0,5.0,0.62,792809,Aguadilla,Puerto Rico,603,8460.0
+92147,for_sale,140000,3.0,2.0,0.11,1868702,Aguadilla,Puerto Rico,603,1116.0
+1123,for_sale,499000,4.0,3.0,0.26,117065,Aguadilla,Puerto Rico,603,3734.0
+87549,for_sale,180000,3.0,2.0,0.17,846259,Aguadilla,Puerto Rico,603,1500.0
+61710,for_sale,225900,6.0,3.0,0.49,1946283,Aguadilla,Puerto Rico,603,2618.0
+65672,for_sale,260000,4.0,2.0,0.12,1136713,Aguadilla,Puerto Rico,603,1760.0
+102017,for_sale,31179,0.0,0.0,0.13,1987983,Aguadilla,Puerto Rico,603,0.0
+52707,for_sale,500000,4.0,3.0,0.33,1902866,Aguadilla,Puerto Rico,603,2950.0
+103378,for_sale,225000,3.0,2.0,0.21,1838380,Aguada,Puerto Rico,603,1565.0
+46019,for_sale,28000,0.0,0.0,0.25,1236850,Aguadilla,Puerto Rico,603,0.0
+60028,for_sale,425000,4.0,2.0,0.95,1946165,Aguadilla,Puerto Rico,603,3468.0
+34632,for_sale,300000,4.0,2.0,10.76,1258490,Aguadilla,Puerto Rico,603,547.0
+101,for_sale,75000,0.0,0.0,0.19,1902896,Aguadilla,Puerto Rico,603,0.0
+107152,for_sale,290000,3.0,2.0,0.15,117027,Aguadilla,Puerto Rico,603,2280.0
+52707,for_sale,550000,3.0,4.0,0.2,483647,Aguadilla,Puerto Rico,603,4020.0
+72457,for_sale,234900,6.0,2.0,0.18,1850808,Aguadilla,Puerto Rico,603,2035.0
+102017,for_sale,44720,0.0,0.0,0.18,1839304,Aguadilla,Puerto Rico,603,0.0
+46019,for_sale,35000,0.0,0.0,0.4,1946284,Aguadilla,Puerto Rico,603,0.0
+52707,for_sale,75000,0.0,0.0,0.4,1868632,Aguadilla,Puerto Rico,603,0.0
+46019,for_sale,37000,0.0,0.0,0.42,1946165,Aguadilla,Puerto Rico,603,0.0
+103378,for_sale,37359,0.0,0.0,0.22,913730,Aguadilla,Puerto Rico,603,0.0
+102017,for_sale,739500,0.0,0.0,2.43,598237,Aguadilla,Puerto Rico,603,0.0
+107152,for_sale,65000,0.0,0.0,0.28,595558,Aguadilla,Puerto Rico,603,0.0
+103378,for_sale,56406,0.0,0.0,0.33,1667035,Aguadilla,Puerto Rico,603,0.0
+107152,for_sale,620000,5.0,3.0,0.52,119241,Aguadilla,Puerto Rico,603,3267.0
+72457,for_sale,649900,8.0,3.0,0.19,1850840,Aguadilla,Puerto Rico,603,3700.0
+103378,for_sale,44995,0.0,0.0,0.26,595223,Aguadilla,Puerto Rico,603,0.0
+103378,for_sale,37779,0.0,0.0,0.22,1563956,Aguadilla,Puerto Rico,603,0.0
+103378,for_sale,60123,0.0,0.0,0.35,1838382,Aguadilla,Puerto Rico,603,0.0
+103378,for_sale,38279,0.0,0.0,0.23,6248,Aguadilla,Puerto Rico,603,0.0
+103378,for_sale,199900,0.0,0.0,11.0,1838381,Aguada,Puerto Rico,603,0.0
+102017,for_sale,125000,0.0,0.0,0.22,822915,Aguadilla,Puerto Rico,603,0.0
+52707,for_sale,200000,0.0,0.0,0.49,1857008,Aguadilla,Puerto Rico,603,0.0
+102017,for_sale,150000,0.0,0.0,0.2,6707,Aguadilla,Puerto Rico,603,0.0
+92147,for_sale,8000000,0.0,0.0,247.57,6475,Isabela,Puerto Rico,603,0.0
+19383,for_sale,1000000,0.0,0.0,5.0,1850843,Aguadilla,Puerto Rico,603,0.0
+52707,for_sale,695000,0.0,0.0,1.89,1902854,Aguadilla,Puerto Rico,603,0.0
+103378,for_sale,98000,5.0,2.0,4.55,1850836,Maricao,Puerto Rico,606,2156.0
+103378,for_sale,55000,5.0,2.0,5.14,1857017,Maricao,Puerto Rico,606,2156.0
+52707,for_sale,75000,5.0,2.0,4.86,1856895,Maricao,Puerto Rico,606,1563.0
+46475,for_sale,80000,3.0,1.0,0.35,1897887,Maricao,Puerto Rico,606,915.0
+52707,for_sale,160000,0.0,0.0,12.25,1902838,Maricao,Puerto Rico,606,0.0
+52464,for_sale,46900,3.0,1.0,0.0,1757054,Mayaguez,Puerto Rico,680,982.0
+102017,for_sale,125000,8.0,5.0,0.09,436480,Hormigueros,Puerto Rico,660,2000.0
+52707,for_sale,95000,2.0,2.0,0.15,595722,Guanica,Puerto Rico,653,1393.0
+57043,for_sale,330000,3.0,2.0,1.75,1902816,Cabo Rojo,Puerto Rico,623,1620.0
+60028,for_sale,115000,3.0,2.0,0.09,1394934,Mayaguez,Puerto Rico,680,1760.0
+31239,for_sale,285000,2.0,1.0,4.74,575006,Cabo Rojo,Puerto Rico,623,1000.0
+52464,for_sale,215000,7.0,4.0,0.11,1480314,Mayaguez,Puerto Rico,680,2200.0
+61834,for_sale,115000,3.0,2.0,0.0,962228,Cabo Rojo,Puerto Rico,623,1205.0
+87549,for_sale,140000,3.0,2.0,0.14,757729,Mayaguez,Puerto Rico,680,1200.0
+51202,for_sale,87000,3.0,1.0,0.04,13690,Mayaguez,Puerto Rico,682,0.0
+52707,for_sale,250000,4.0,2.0,0.08,1071244,Cabo Rojo,Puerto Rico,623,3052.0
+52707,for_sale,70000,3.0,1.0,0.08,387673,San German,Puerto Rico,683,894.0
+102017,for_sale,190000,5.0,5.0,0.08,6946,Mayaguez,Puerto Rico,680,1600.0
+87549,for_sale,150000,3.0,1.0,0.07,598681,San German,Puerto Rico,683,363.0
+60831,for_sale,750000,12.0,6.0,0.52,1855338,Cabo Rojo,Puerto Rico,623,4800.0
+52707,for_sale,125000,0.0,1.0,0.0,939072,Mayaguez,Puerto Rico,682,390.0
+102017,for_sale,950000,9.0,8.0,0.17,1854848,Rincon,Puerto Rico,677,3852.0
+102017,for_sale,1200000,5.0,4.0,1.8,1181969,Aguada,Puerto Rico,677,6000.0
+81495,for_sale,495000,4.0,3.0,0.4,1446813,Lajas,Puerto Rico,667,6500.0
+87549,for_sale,90000,3.0,1.0,0.19,950033,Mayaguez,Puerto Rico,682,778.0
+77433,for_sale,395000,3.0,2.0,0.25,948184,Cabo Rojo,Puerto Rico,623,2800.0
+18211,for_sale,82000,1.0,1.0,0.0,1840559,Mayaguez,Puerto Rico,680,471.0
+47983,for_sale,389000,2.0,2.0,0.0,593379,Cabo Rojo,Puerto Rico,623,1356.0
+87549,for_sale,45000,0.0,0.0,0.2,1856894,Cabo Rojo,Puerto Rico,623,0.0
+61710,for_sale,65000,0.0,0.0,0.26,49178,Cabo Rojo,Puerto Rico,623,0.0
+87549,for_sale,80000,0.0,0.0,0.49,1855526,Cabo Rojo,Puerto Rico,623,0.0
+87549,for_sale,120000,0.0,0.0,2.82,1897484,Cabo Rojo,Puerto Rico,623,0.0
+87549,for_sale,70000,0.0,0.0,0.28,113181,Cabo Rojo,Puerto Rico,623,0.0
+46019,for_sale,391000,0.0,0.0,20.4,10284,Hormigueros,Puerto Rico,660,0.0
+46019,for_sale,160000,0.0,0.0,14.34,10282,Cabo Rojo,Puerto Rico,623,0.0
+46019,for_sale,290000,0.0,0.0,16.22,10282,Cabo Rojo,Puerto Rico,623,0.0
+46019,for_sale,835000,0.0,0.0,17.97,10282,Hormigueros,Puerto Rico,660,0.0
+47983,for_sale,159000,0.0,0.0,0.44,1902890,Mayaguez,Puerto Rico,680,0.0
+47983,for_sale,79000,0.0,0.0,0.25,1902821,Anasco,Puerto Rico,610,0.0
+46019,for_sale,149900,3.0,2.0,0.15,6713,Anasco,Puerto Rico,610,1687.0
+48230,for_sale,106000,2.0,1.0,0.13,1966340,Anasco,Puerto Rico,610,826.0
+34632,for_sale,165000,5.0,3.0,0.11,560745,Anasco,Puerto Rico,610,2327.0
+86036,for_sale,499000,8.0,6.0,0.13,1307166,Anasco,Puerto Rico,610,0.0
+46019,for_sale,140000,0.0,0.0,0.37,1667382,Anasco,Puerto Rico,610,0.0
+46475,for_sale,450000,4.0,7.0,0.76,1793737,Isabela,Puerto Rico,662,4000.0
+96048,for_sale,485000,4.0,3.0,0.21,1446871,Isabela,Puerto Rico,662,3066.0
+52707,for_sale,1800000,6.0,3.0,0.97,1902806,Isabela,Puerto Rico,662,10000.0
+18211,for_sale,975000,6.0,4.0,16.0,1913925,Isabela,Puerto Rico,662,3739.0
+47983,for_sale,950000,4.0,2.0,0.49,6927,Rincon,Puerto Rico,677,2450.0
+47983,for_sale,349000,3.0,2.0,0.0,1966335,Rincon,Puerto Rico,677,1688.0
+72457,for_sale,39900,3.0,1.0,0.0,1862028,Arecibo,Puerto Rico,612,878.0
+72457,for_sale,29900,3.0,1.0,0.0,1862027,Arecibo,Puerto Rico,612,878.0
+60830,for_sale,475000,1.0,3.0,0.13,1427607,Arecibo,Puerto Rico,612,10000.0
+60831,for_sale,200000,4.0,3.0,0.24,1946165,Arecibo,Puerto Rico,612,3413.0
+103378,for_sale,84900,4.0,2.0,0.1,1840770,Arecibo,Puerto Rico,612,0.0
+52707,for_sale,148000,5.0,2.0,0.49,1902831,Arecibo,Puerto Rico,612,2058.0
+49592,for_sale,39500,1.0,1.0,0.14,1946165,Arecibo,Puerto Rico,612,800.0
+33888,for_sale,220000,6.0,3.0,0.45,1856978,Arecibo,Puerto Rico,612,2900.0
+52707,for_sale,75000,3.0,2.0,0.27,1856974,Arecibo,Puerto Rico,612,1100.0
+60830,for_sale,110000,4.0,2.0,0.13,1856516,Arecibo,Puerto Rico,612,1000.0
+60831,for_sale,150000,7.0,4.0,0.49,1946210,Arecibo,Puerto Rico,612,800.0
+103378,for_sale,69900,4.0,2.0,0.09,1840775,Arecibo,Puerto Rico,612,0.0
+52707,for_sale,79000,6.0,3.0,0.09,1855343,Arecibo,Puerto Rico,612,2472.0
+52707,for_sale,65000,3.0,1.0,0.09,1856972,Arecibo,Puerto Rico,612,1044.0
+60830,for_sale,179000,5.0,3.0,0.08,1855451,Arecibo,Puerto Rico,612,2200.0
+62210,for_sale,145000,3.0,2.0,0.86,1427895,Arecibo,Puerto Rico,612,3500.0
+1589,for_sale,79000,3.0,1.0,0.13,821104,Arecibo,Puerto Rico,612,1262.0
+80224,for_sale,360000,5.0,2.0,0.42,1567105,Arecibo,Puerto Rico,612,6000.0
+29911,for_sale,50000,0.0,0.0,0.03,1967771,Arecibo,Puerto Rico,612,0.0
+103378,for_sale,134900,0.0,0.0,0.25,1840769,Arecibo,Puerto Rico,612,1856.0
+92147,for_sale,94600,3.0,1.0,0.08,1992381,Arecibo,Puerto Rico,612,1009.0
+103378,for_sale,59900,0.0,0.0,0.34,1840776,Arecibo,Puerto Rico,612,0.0
+1589,for_sale,239000,7.0,3.0,0.31,1551669,Arecibo,Puerto Rico,612,2715.0
