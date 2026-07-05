@@ -23,7 +23,7 @@ for row in table.find_all('div',
     quote['author'] = row.img['alt'].split(" ")[1]
     quotes.append(quote)
  
-filename = 'Week3/inspirational_quotes.csv'
+filename = 'MY-AI-COURSE/02_Python_Libraries/inspirational_quotes.csv'
 with open(filename, 'w', newline='') as f:
     w = csv.DictWriter(f,['theme','url','img','lines','author'])
     w.writeheader()
